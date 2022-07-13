@@ -6,7 +6,7 @@ html,body{
 
 nav{
 position: relative;
-width: 100%;
+width: 80%;
 background-color:rgb(240, 240, 240) ;
 
 }
@@ -130,4 +130,38 @@ footer ul{
 }
 .footer-items{
     width: 25%;
+    padding: auto;
+}
+.section5{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: cursive;
+
+}
+.imgs{
+    height: 200px;
+    width: 400px;
+}
+.img2__div_h{
+    display: flex;
+}
+.end2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.lol{
+    width: 50%;
+    
+}
+.wwe{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+   
+
+}
+.names{
+    border: 1px solid black;
 }
